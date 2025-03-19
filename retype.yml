@@ -1,7 +1,7 @@
 input: ./assets
 output: .retype
 
-url: https://docs.aihub.gg/
+url: https://dreamerlinx.github.io/richardmj-sv-wiki/
 
 branding:
   title:
@@ -10,21 +10,10 @@ branding:
   label:
 
 links:
-- text: Need Help?
-  link: https://discord.gg/aihub
-  icon: question
-- text: Report Issues
-  link: https://docs.aihub.gg/#contributions
-  icon: stop
-- text: GitHub
-  link: https://github.com/AIHubCentral/docs
-  icon: mark-github
+- text: RichardMJ Discord
+  link: https://discord.gg/Eb2mV2WVRz
 
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
 
-integrations:
-  googleAnalytics:
-    id: G-36D5RK6Y12
-
-favicon: ../assets/img/b.png
+favicon: ../assets/img/a.png
