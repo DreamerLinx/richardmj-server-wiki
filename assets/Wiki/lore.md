@@ -49,11 +49,11 @@ Si bien **RichardMJ** es el alma del servidor, hay muchos miembros que, con su p
 - **Creatib**: Experto en hacer **live versions** de Michael Jackson y en crear memes épicos que mantuvieron la energía del servidor viva.
 - **MJJFANCHANNEL**: Otro fanático de Michael, pero con su toque personal en cada cover que compartía.
 - **Gael Zdenko**: Siempre lleno de ideas nuevas, aportando música, buenos momentos y debates filosóficos entre amigos.
-- **Aibis**: Un miembro fantasma.
+- **Aibis**: Un miembro tan enigmático que pocos lo han oído hablar. Se rumorea que **Aibis** es más un "fantasma" del servidor, ya que nunca comenta ni participa en los chats, pero su presencia siempre está allí. Nadie sabe quién es realmente, pero su figura es tan mítica que, a veces, algunos se preguntan si realmente existe.
 - **Jimi (MJM - MJ Multiverse)**: El hombre que se adentró en el mundo de los multiversos, conectando ideas que solo él podría imaginar.
 - **El Chairo del Ocho**: El encargado de las bromas internas, memes y de mantener las risas activas.
-- **Uriel**: El debateador del grupo, siempre defendiendo sus opiniones con una pasión indomable, un papeador total.
-- **Xscaper Walker**: Un miembro más callado, pero con una mente observadora que siempre estaba al tanto de todo lo que pasaba en el servidor, el creador de el Michael Jackson Tracker.
+- **Uriel**: El debateador del grupo, siempre defendiendo sus opiniones con una pasión indomable. Además, **Uriel** es conocido por ser un **"papeador"** total, nunca se detiene a la hora de "papeársela" con quien sea, y siempre tiene algo que decir en cualquier conversación.
+- **Xscaper Walker**: El misterioso **creador de "Michael Jackson Tracker"**, una herramienta épica que hizo historia dentro del servidor, conectando todos los proyectos relacionados con Michael Jackson de una manera única. Aunque mantiene un perfil bajo, su legado en el servidor es innegable.
 
 ***
 
@@ -75,24 +75,20 @@ Lo que empezó como una simple broma se transformó en un servidor donde la crea
 
 ***
 
-### Agradecimientos
+## Pequeñas cositas
 
-A todos los miembros que han sido parte de este servidor desde el principio, especialmente a **Richard**, **Dan** y a todos los demás, que han aportado su dedicación, su energía y su creatividad para hacer de **RichardMJ & Friends** el lugar tan especial que es hoy. ¡Gracias por seguir haciendo de este servidor un sitio donde la magia de RichardMJ nunca se apaga!
+- **Dan** accidentalmente borró el **chat general original** del servidor, junto con varios archivos importantes que contenían información crucial. Todo el mundo se volvió loco buscando las conversaciones perdidas, y hubo discusiones épicas sobre la "desaparición del chat". Aunque los archivos fueron recuperados más tarde, nunca olvidaron la vez que **Dan** destruyó todo.
+- **Mirena** se unió a las clases de **Jesús 2A** impartidas por **Sigmer Malachi**, un curso de conocimientos místicos sobre la vida y el legado de Michael Jackson, aunque muchos se preguntan si realmente se está aprendiendo algo en esas clases.
+- **Mirena** tiene la extraña costumbre de **borrar siempre sus videos**, dejando a todos con la duda de qué es lo que comparte realmente. Nadie sabe si esto es parte de su estrategia de misterio o simplemente un "problema técnico".
+- **Creatib** es el rey de los **snippets**. Siempre está compartiendo sus últimas creaciones de versiones en vivo de canciones de Michael, manteniendo a la comunidad emocionada con cada avance.
+- El **raid a Michael J Mixes & Friends** fue un evento que nadie olvidará. Sin entrar en detalles, fue una invasión épica que cambió la dinámica entre los dos servidores, dejando historias y leyendas por contar.
+- Se rumorea que **Sigmer Malachi** tiene un **modelo RVC de voz** completamente único, pero no mencionaré detalles sobre cómo funciona, porque, bueno, es parte de los secretos del servidor.
+- En uno de los momentos más extraños, se publicaron **cosas VIP** de **Michael J Mixes & Friends** en el servidor de Richard, generando caos entre los miembros. Nadie sabe cómo llegaron allí, pero sí saben que fue un momento muy controversial.
+- En una broma interna, acusaron a **Eduardo** de ser un "groomer", aunque, por supuesto, esto fue solo una broma pesada.
+- La discusión más **famosa** de todas fue cuando **Erik**, de 18 años, estuvo en una relación con **Hazel**, de 13. **Creatib**, **Uriel** y **Mirena** lo confrontaron duramente, señalando que esa relación era inapropiada y completamente mal vista. La discusión escaló rápidamente, y aunque **Richard** intervino para calmar la situación, las tensiones siguieron durante días. Finalmente, **Uriel** y **Richard** decidieron intervenir físicamente (metafóricamente hablando) y la situación se calmó, pero dejó una marca en la historia del servidor.
 
 ***
 
-## Pequeñas cositas
+### Agradecimientos
 
-- **Dan** (o sea, yo) borró accidentalmente el **chat general original** del servidor, junto con varios archivos importantes que contenían un montón de información crucial. Todos se volvieron locos buscando las conversaciones perdidas, y hubo algunas discusiones épicas sobre la "desaparición del chat". Eventualmente, los archivos fueron recuperados, pero nunca olvidamos ese pequeño desastre.
-
-- **Eduardin**, un miembro que fue baneado por razones varias, una vez entró al servidor y comenzó a compartir fotos **obscenas** de su chilito. Aunque rápidamente fue expulsado, el evento dejó una marca en la comunidad, y se convirtió en uno de esos momentos legendarios que todos recordarán.
-
-- En un giro de lo más extraño, **Mirena** se unió a las clases de **Jesús 2.0**, organizadas por **Sigmer Malachi**. Nadie sabe qué ocurrió allí, pero todo el mundo habla de ello como si fuera un evento místico. ¿Fue una revelación? Nadie tiene respuestas.
-
-- Durante una fase extraña, **Sigmer Malachi** y **Mirena** comenzaron a conspirar para crear un nuevo modelo de **RVC** que pudiera transformar sus voces en algo más cercano al estilo de Michael Jackson. Aunque nunca se materializó, la idea generó una gran cantidad de memes y bromas internas.
-
-- En una de las situaciones más divertidas, **Michael J Mixes & Friends** sufrió un raid por parte de algunos miembros de nuestro servidor. Aunque no se puede hablar demasiado de los detalles, todos sabemos que el caos fue épico.
-
----
-
-¡Con todo esto, el servidor **RichardMJ & Friends** continúa creciendo y evolucionando, manteniendo su esencia y el espíritu único que lo hace tan especial!
+A **Richard**, **Dan** y a todos los miembros que han sido parte de este servidor desde el principio. Sin su dedicación y amor por la música, **RichardMJ & Friends** no sería lo que es hoy. ¡Gracias por hacer de este servidor un lugar tan especial!
