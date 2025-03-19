@@ -32,7 +32,7 @@ Además, Richard no se limitó a sus propias composiciones. También se dedicó 
 El servidor **RichardMJ & Friends** no sería lo mismo sin sus miembros clave. Entre ellos se encuentran:
 
 - **RichardMJ**: El hombre del momento, siempre sorprendiéndonos con su música y su energía.
-- - **Dan**: El genio creativo detrás de muchas de las ideas y proyectos del servidor, incluyendo el famoso **álbum meme de Sigma Boy**.
+- **Dan**: Un miembro normal con muchas ideas.
 - **Maracas Jeison**: Conocido por su actitud de sigma y, por supuesto, por su cara misteriosa que alguna vez fue filtrada en el servidor (¡una verdadera leyenda!).
 - **Mirena Miano**: La gran mente detrás de las ideas más locas del servidor.
 - **Creatib**: El experto en live versions de MJ y memes, nunca deja de crear cosas épicas.
