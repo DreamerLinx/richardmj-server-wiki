@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dreamerlinx.github.io/richardmj-sv-wiki/sitemap.xml.gz
+Sitemap: https://dreamerlinx.github.io/richardmj-server-wiki/sitemap.xml.gz
