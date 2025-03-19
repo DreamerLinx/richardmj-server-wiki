@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dreamerlinx.github.io/richardmj-sv-wiki/sitemap.xml.gz
