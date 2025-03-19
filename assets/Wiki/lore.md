@@ -52,7 +52,7 @@ Se dice que en algún momento **Erik**, el dueño del servidor de **Michael J Mi
 ***
 ### El famoso **Álbum Sigma Boy**
 
-Uno de los momentos más locos en la historia de **RichardMJ & Friends** fue la creación del **álbum Sigma Boy**. Esta idea nació como una broma entre **Dan** y **Maracas Jeison**: un álbum completamente **meme** inspirado en la música de Michael y Jason Malachi. No solo fue un éxito entre los miembros, sino que **el álbum se filtró por completo**, con **demos**, imágenes exclusivas y hasta la **cara de Maracas Jeison** (¡un misterio resuelto, por fin!).
+Uno de los momentos más locos en la historia de **RichardMJ & Friends** fue la creación del **álbum Sigma Boy**. Esta idea nació como una broma entre **Dan** y **Sigmer Malachi**: un álbum completamente **meme** inspirado en la música de Michael y Jason Malachi. No solo fue un éxito entre los miembros, sino que **el álbum se filtró por completo**, con **demos**, imágenes exclusivas y hasta la **cara de Sigmer Malachi** (¡un misterio resuelto, por fin!).
 
 ***
 ### La evolución del servidor
