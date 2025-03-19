@@ -33,7 +33,7 @@ El servidor **RichardMJ & Friends** no sería lo mismo sin sus miembros clave. E
 
 - **RichardMJ**: El hombre del momento, siempre sorprendiéndonos con su música y su energía.
 - **Dan**: Un miembro normal con muchas ideas.
-- **Maracas Jeison**: Conocido por su actitud de sigma y, por supuesto, por su cara misteriosa que alguna vez fue filtrada en el servidor (¡una verdadera leyenda!).
+- **Sigmer Malachi**: Conocido por su actitud de sigma y, por supuesto, por su cara misteriosa que alguna vez fue filtrada en el servidor (¡una verdadera leyenda!).
 - **Mirena Miano**: La gran mente detrás de las ideas más locas del servidor.
 - **Creatib**: El experto en live versions de MJ y memes, nunca deja de crear cosas épicas.
 - **MJJFANCHANNEL**: El otro experto en covers graciosos ggez.
