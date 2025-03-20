@@ -87,28 +87,6 @@ Lo que empezó como una simple broma se transformó en un servidor donde la crea
 - En una broma interna, acusaron a **Eduardo** de ser un "groomer", aunque, por supuesto, esto fue solo una broma pesada.
 - La discusión más **famosa** de todas fue cuando **Erik**, de 18 años, estuvo en una relación con **Hazel**, de 13. **Creatib**, **Uriel** y **Mirena** lo confrontaron duramente, señalando que esa relación era inapropiada y completamente mal vista. La discusión escaló rápidamente, y aunque **Richard** intervino para calmar la situación, las tensiones siguieron durante días. Finalmente, **Uriel** y **Richard** decidieron intervenir físicamente (metafóricamente hablando) y la situación se calmó, pero dejó una marca en la historia del servidor.
 - **La vez en la que Mirena, Sigmer y Jefferson Music borraron todos los modelos RVC de Michael J Mixes & Friends**: En un giro inesperado, **Mirena**, **Sigmer Malachi** y **Jefferson Music** decidieron borrar todos los modelos RVC del servidor **Michael J Mixes & Friends**, eliminando la razón principal por la cual muchos se unían al servidor: los modelos. Aunque el servidor ya llevaba tiempo muerto, esta acción dejó a muchos miembros sin palabras y un tanto confundidos sobre la motivación detrás de la desaparición de esos archivos, marcando un hito en la historia del servidor.
-- **El álbum lost media de RichardMJ**: Se cuenta la leyenda de que **Richard** lanzó un álbum titulado **"The Espantador of Humans"**, compuesto por **covers de su propia voz**. A diferencia de otros proyectos que quedan en simples ideas, este álbum sí tuvo un **lanzamiento oficial** en **YouTube y Google Drive**, aunque su tiempo en línea fue breve. 
-
-  Por razones desconocidas, todos los archivos fueron **eliminados**, dejando el álbum en el olvido. Algunos dicen que fue un error de Richard, otros creen que las plataformas lo eliminaron por alguna extraña razón, y hay quienes sostienen que él mismo decidió borrarlo, arrepentido de haberlo publicado. Sea cual sea la verdad, el resultado fue el mismo: el álbum se convirtió en **lost media**.
-
-  Actualmente, **ni el mismo Richard lo tiene**, pues con el tiempo perdió los archivos originales. Solo han sobrevivido **algunos studio multitracks** y **algunas canciones que fueron rescatadas** por miembros del servidor, aunque su autenticidad sigue siendo un tema de debate.
-
-  La portada del álbum ha sido **recuperada**, convirtiéndose en una pieza icónica dentro del servidor y alimentando la curiosidad de quienes nunca lograron escucharlo. Se rumorea que fragmentos de algunas canciones han aparecido en viejas transmisiones en vivo o en copias descargadas por los fans más dedicados, pero hasta ahora, nadie ha conseguido una copia completa.
-
-  Uno de los pocos rastros que quedan del álbum es una conversación entre Richard y otros miembros del servidor, donde discutían el número de canciones que tendría **"The Espantador of Humans"**:
-
-  > **Richard:** Pinche madre, el álbum de Mander tiene 20 canciones y mi álbum apenas tiene 4.  
-  > **The Espantador of Humans Album**  
-  > - Beat It  
-  > - Billie Jean  
-  > - Splastick  
-  > - Boys Do Fall In Love  
-
-  > **Creatib:** ¿Y Smooth Criminal no?  
-
-  > **Richard:** Sí, sí, me olvidé. Serían 5 entonces.  
-
-  Esto confirma que el tracklist del álbum nunca estuvo completamente definido y que incluso Richard consideró expandirlo. Sin embargo, su existencia sigue siendo un **misterio**, y hasta que una copia completa aparezca, **"The Espantador of Humans"** permanecerá como una de las piezas más enigmáticas del legado de RichardMJ.
 
 ***
 
