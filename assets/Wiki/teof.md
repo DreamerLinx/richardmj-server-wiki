@@ -95,6 +95,7 @@ Si esta versión llega a concretarse, marcaría **el regreso oficial** de *The E
 Aunque el álbum original sigue desaparecido, **algunos archivos han logrado sobrevivir**. Estos son los que han sido confirmados por Richard:  
 
 - **Beat It** (en acapella)  
+- **Billie Jean** (mix original)  
 - **Smooth Criminal** (mix original)  
 - **Splastick** (mix original)  
 - **The Loser** (mix original)  
@@ -111,4 +112,6 @@ Además, hay especulaciones sobre la posibilidad de que alguien haya descargado 
 
 ---
 
-**Próximamente se añadirán enlaces a los audios recuperados...**
+## **📌 RichardMJ Tracker**  
+
+🔗 [Enlace al tracker de RichardMJ](https://docs.google.com/spreadsheets/d/1sXwq07CBPQOMRnngnTTLE4aQ2OiLqx0kg0IpneqR4sI/edit?usp=sharing)
