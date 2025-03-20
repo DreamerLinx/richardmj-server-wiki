@@ -49,7 +49,7 @@ Esto reavivó el interés por el álbum y generó **nuevas esperanzas** de que m
 Uno de los pocos elementos **que se han preservado** es la **portada oficial** del álbum. Aunque el diseño es simple, su valor histórico dentro de la comunidad es incalculable. Se ha convertido en un símbolo del álbum perdido y un recordatorio de su existencia.  
 
 :::content-center
-<img src="./img/teof_cover.jpg" alt="Portada de The Espantador of Humans" width="345" height="auto">
+<img src="/assets/img/teof_cover.jpg" alt="Portada de The Espantador of Humans" width="345" height="auto">
 :::
 
 ***
